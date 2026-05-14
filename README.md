@@ -1,31 +1,102 @@
-## Hi, I am Alisia Reveli!
-<br>
+<div align="center">
 
-<div>
-  <a href="https://github.com/AlisiaReveli">
-    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisiaReveli&layout=compact&langs_count=16&theme=dracula"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlisiaReveli&show_icons=true&theme=dracula&count_private=true&hide=issues"/>
-  </a>
+```
+   ┌─────────────────────────────────────────────────────────────────────────┐
+   │   █▀█ █   █ █▀ █ █▀█   █▀█ █▀▀ █ █ █▀▀ █   █     ░ backend.engineer  │
+   │   █▀█ █▄▄ █ ▄█ █ █▀█   █▀▄ ██▄ ▀▄▀ ██▄ █▄▄ █     ░ tirana · UTC+1    │
+   └─────────────────────────────────────────────────────────────────────────┘
+```
+
+[![online](https://img.shields.io/badge/%E2%97%8F%20online-3fb950?style=flat-square&labelColor=0d1117)](https://github.com/AlisiaReveli)&nbsp;
+![kafka:healthy](https://img.shields.io/badge/kafka:healthy-8b949e?style=flat-square&labelColor=0d1117)&nbsp;
+![uptime](https://img.shields.io/badge/uptime:%206y%2B-8b949e?style=flat-square&labelColor=0d1117)&nbsp;
+![open to](https://img.shields.io/badge/open%20to:%20backend%20%2F%20ai--eng-8b949e?style=flat-square&labelColor=0d1117)
+
 </div>
 
-## Skills
-<div style="display: inline-block"><br>
-  <img height="40" align="center" alt="Alisia-Js" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Alisia-Node" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Alisia-NestJS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Alisia-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Alisia-CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="180" alt="Alisia-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
-</div>
+```bash
+$ whoami --verbose
+alisia.reveli :: backend.engineer
+tirana, AL · UTC+1 · since 1999
 
-<br>
+$ cat /etc/profile
+> 6+ yrs shipping distributed, high-throughput systems
+> kafka topics, nestjs services, go workers, ai agents
+> currently wiring LangGraph + OpenAI into prod at scale
 
-## Contact
-<div>
-  <a href="https://www.linkedin.com/in/alisiareveli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:alisjareveli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+$ tail -f career.log
+```
+
+---
+
+### `// stack.registry`
+
+<table>
+<tr>
+<td>
+
+**`runtime`** &nbsp; 🟢
+
+```
+› Node.js
+› NestJS
+› Go
+› Python
+› FastAPI
+› TypeScript
+```
+
+</td>
+<td>
+
+**`data + bus`** &nbsp; 🔵
+
+```
+› Kafka
+› RabbitMQ
+› PostgreSQL
+› MongoDB
+› ClickHouse
+› Redis
+```
+
+</td>
+<td>
+
+**`observability`** &nbsp; 🟣
+
+```
+› Elasticsearch
+› Logstash
+› Kibana
+› Grafana
+```
+
+</td>
+<td>
+
+**`ai / agents`** &nbsp; 🟠
+
+```
+› OpenAI APIs
+› LangGraph
+› Vercel AI SDK
+› n8n
+› Make
+```
+
+</td>
+</tr>
+</table>
+
+
+
+
+<div align="center">
+
+`$ contact` &nbsp; [alisjareveli@gmail.com](mailto:alisjareveli@gmail.com) &nbsp; · &nbsp; `build: stable` &nbsp; · &nbsp; `lang: EN/C1 · SQ/native`
+
+[![GitHub](https://img.shields.io/badge/github-AlisiaReveli-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/AlisiaReveli)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-alisia%20reveli-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisiareveli/)
+
 </div>
