@@ -1,13 +1,15 @@
 <div align="center">
 
 ```
-   ┌─────────────────────────────────────────────────────────────────────────┐
-   │   █▀█ █   █ █▀ █ █▀█   █▀█ █▀▀ █ █ █▀▀ █   █     ░ backend.engineer  │
-   │   █▀█ █▄▄ █ ▄█ █ █▀█   █▀▄ ██▄ ▀▄▀ ██▄ █▄▄ █     ░ tirana · UTC+1 
-                                                             REMOTE
-   │
-   └─────────────────────────────────────────────────────────────────────────┘
+ ┌─────────────────────────────────────────────────────────────┐
+ │                                                             │
+ │   ALISIA REVELI                                             │
+ │   ░ backend.engineer  ░  tirana · UTC+1  ░  remote          │
+ │                                                             │
+ └─────────────────────────────────────────────────────────────┘
 ```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=7EE787&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=24&lines=%24+whoami+--verbose+%E2%86%92+alisia.reveli+%3A%3A+backend.engineer)](https://github.com/AlisiaReveli)
 
 [![online](https://img.shields.io/badge/%E2%97%8F%20online-3fb950?style=flat-square&labelColor=0d1117)](https://github.com/AlisiaReveli)&nbsp;
 ![kafka:healthy](https://img.shields.io/badge/kafka:healthy-8b949e?style=flat-square&labelColor=0d1117)&nbsp;
@@ -35,64 +37,38 @@ $ tail -f career.log
 
 <table>
 <tr>
-<td>
+<td width="250">
 
 **`runtime`** &nbsp; 🟢
 
-```
-› Node.js
-› NestJS
-› Go
-› Python
-› FastAPI
-› TypeScript
-```
+`Node.js` · `NestJS` · `Go` · `Python` · `FastAPI` · `TypeScript`
 
 </td>
-<td>
+<td width="250">
 
 **`data + bus`** &nbsp; 🔵
 
-```
-› Kafka
-› RabbitMQ
-› PostgreSQL
-› MongoDB
-› ClickHouse
-› Redis
-```
+`Kafka` · `RabbitMQ` · `PostgreSQL` · `MongoDB` · `ClickHouse` · `Redis`
 
 </td>
-<td>
+</tr>
+<tr>
+<td width="250">
 
 **`observability`** &nbsp; 🟣
 
-```
-› Elasticsearch
-› Logstash
-› Kibana
-› Grafana
-```
+`Elasticsearch` · `Logstash` · `Kibana` · `Grafana`
 
 </td>
-<td>
+<td width="250">
 
 **`ai / agents`** &nbsp; 🟠
 
-```
-› OpenAI APIs
-› LangGraph
-› Vercel AI SDK
-› n8n
-› Make
-```
+`OpenAI APIs` · `LangGraph` · `Vercel AI SDK` · `n8n` · `Make`
 
 </td>
 </tr>
 </table>
-
-
-
 
 <div align="center">
 
