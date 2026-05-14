@@ -1,12 +1,13 @@
 <div align="center">
 
 ```
- ┌─────────────────────────────────────────────────────────────┐
- │                                                             │
- │   ALISIA REVELI                                             │
- │   ░ backend.engineer  ░  tirana · UTC+1  ░  remote          │
- │                                                             │
- └─────────────────────────────────────────────────────────────┘
+    ___    __    _________ _______       ____  _______    __________    ____
+   /   |  / /   /  _/ ___//  _/   |     / __ \/ ____/ |  / / ____/ /   /  _/
+  / /| | / /    / / \__ \ / // /| |    / /_/ / __/  | | / / __/ / /    / /
+ / ___ |/ /____/ / ___/ // // ___ |   / _, _/ /___  | |/ / /___/ /____/ /
+/_/  |_/_____/___//____/___/_/  |_|  /_/ |_/_____/  |___/_____/_____/___/
+
+              ░ backend.engineer  ░  tirana · UTC+1  ░  remote
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=9ECDA8&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=540&height=32&lines=%24+whoami+--verbose+%E2%86%92+alisia.reveli+%3A%3A+backend.engineer)](https://github.com/AlisiaReveli)
