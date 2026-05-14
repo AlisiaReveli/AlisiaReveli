@@ -28,7 +28,6 @@ $ cat /etc/profile
 > kafka topics, nestjs services, go workers, ai agents
 > currently wiring LangGraph + OpenAI into prod at scale
 
-$ tail -f career.log
 ```
 
 ---
