@@ -9,7 +9,7 @@
  └─────────────────────────────────────────────────────────────┘
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=7EE787&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=24&lines=%24+whoami+--verbose+%E2%86%92+alisia.reveli+%3A%3A+backend.engineer)](https://github.com/AlisiaReveli)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=9ECDA8&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=24&lines=%24+whoami+--verbose+%E2%86%92+alisia.reveli+%3A%3A+backend.engineer)](https://github.com/AlisiaReveli)
 
 [![online](https://img.shields.io/badge/%E2%97%8F%20online-3fb950?style=flat-square&labelColor=0d1117)](https://github.com/AlisiaReveli)&nbsp;
 ![kafka:healthy](https://img.shields.io/badge/kafka:healthy-8b949e?style=flat-square&labelColor=0d1117)&nbsp;
